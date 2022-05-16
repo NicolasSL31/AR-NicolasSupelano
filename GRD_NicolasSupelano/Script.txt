@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Archivo del punto 5
 Taller 2
 
+=======
+Nuevo archivo para subir 
+En el taller hoy 
+>>>>>>> ca4fb55c974a3434720b900ec9cff1395d3617dc
