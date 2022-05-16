@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-Nicolas Supelano
-Tecnólogo en Gestión de Redes de Datos
+Nicolas Lopez
+¿Tecnólogo en Gestión de Redes de Datos
 Centro de Gestión de Mercados, Logística y Tecnologías de la Información
-Ficha: 2276876
-=======
-hola
-rygkhjib
->>>>>>> b92cab5c1e6423115b971ff951f5766b177de306
+Ficha:   2276876
+Automatizacion de redes  sexto trimestre GRD
